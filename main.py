@@ -1,5 +1,4 @@
-import random
-import time
+import random, time
 
 #LOOP THAT MAKES RANDOM XXX - XXX DIGITS EVERY 20 SECS
 while True:
